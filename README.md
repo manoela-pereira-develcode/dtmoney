@@ -7,23 +7,12 @@
 </h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/eliasgcf/"><img alt="Made by" src="https://img.shields.io/badge/made%20by-Elias%20Gabriel-%2333CC95"></a>
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/EliasGcf/dtmoney?color=%2333CC95">
-  <a href="https://github.com/EliasGcf/dtmoney/commits/master"><img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/EliasGcf/dtmoney?color=%2333CC95"></a>
-  <img alt="GitHub" src="https://img.shields.io/github/license/EliasGcf/dtmoney?color=%2333CC95">
-</p>
-
-<p align="center">
   <a href="#-about-the-project">About the project</a> •
   <a href="#-layout">Layout</a> •
   <a href="#-technologies">Technologies</a> •
   <a href="#-getting-started">Getting started</a> •
   <a href="#-license">License</a>
 </p>
-
-<!-- <p align="center">
-  <img alt="dtmoney" src=".github/dtmoney.png" width="100%">
-</p> -->
 
 ## 💲 About the project
 
@@ -76,5 +65,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ---
 
 <p align="center">
-  Made with 💜&nbsp; by <a href="https://www.linkedin.com/in/eliasgcf/">Elias Gabriel</a>
+  Made &nbsp; by <a href="https://www.linkedin.com/in/manoelapr/">Manoela Pereira</a>
 </p>
