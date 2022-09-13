@@ -1,46 +1,80 @@
-# Getting Started with Create React App
+<h1 align="center">
+  <img alt="dtmoney" title="dtmoney" width="400px"  src="./src/assets/logoReadme.svg" />
+</h1>
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<h3 align="center">
+  dt money - Know where you spend your money
+</h3>
 
-## Available Scripts
+<p align="center">
+  <a href="https://www.linkedin.com/in/eliasgcf/"><img alt="Made by" src="https://img.shields.io/badge/made%20by-Elias%20Gabriel-%2333CC95"></a>
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/EliasGcf/dtmoney?color=%2333CC95">
+  <a href="https://github.com/EliasGcf/dtmoney/commits/master"><img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/EliasGcf/dtmoney?color=%2333CC95"></a>
+  <img alt="GitHub" src="https://img.shields.io/github/license/EliasGcf/dtmoney?color=%2333CC95">
+</p>
 
-In the project directory, you can run:
+<p align="center">
+  <a href="#-about-the-project">About the project</a> •
+  <a href="#-layout">Layout</a> •
+  <a href="#-technologies">Technologies</a> •
+  <a href="#-getting-started">Getting started</a> •
+  <a href="#-license">License</a>
+</p>
 
-### `yarn start`
+<!-- <p align="center">
+  <img alt="dtmoney" src=".github/dtmoney.png" width="100%">
+</p> -->
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+## 💲 About the project
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+[dt money](https://dtmoney.vercel.app/) is a project created in [Rocketseat](https://rocketseat.com.br/) Ignite ReactJS training.
 
-### `yarn test`
+In this project you can save your transactions and see the total off money.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## 🔖 Layout
 
-### `yarn build`
+You can view the project layout through the links below:
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+- [Layout in Figma](https://www.figma.com/file/)
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+> Remembering that you need to have a [Figma](http://figma.com/) account to access it.
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+## 🚀 Technologies
 
-### `yarn eject`
+- [ReactJS](https://reactjs.org/)
+- [TypeScript](https://www.typescriptlang.org/)
+- [Miragejs](https://miragejs.com/)
+- [Styled Components](https://styled-components.com/)
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+## 💻 Getting started
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+### Requirements
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+- [Node.js](https://nodejs.org/en/)
+- [Yarn](https://classic.yarnpkg.com/) or [NPM](https://www.npmjs.com/) _(examples are with yarn)_
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+**Clone the project and access the folder**
 
-## Learn More
+```bash
+$ git clone https://github.com/EliasGcf/dtmoney.git && cd dtmoney
+```
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+**Follow the steps below**
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+```bash
+# Install the dependencies
+$ yarn
+
+# Start the app
+$ yarn start
+```
+
+## 📝 License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+---
+
+<p align="center">
+  Made with 💜&nbsp; by <a href="https://www.linkedin.com/in/eliasgcf/">Elias Gabriel</a>
+</p>
